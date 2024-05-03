@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace APJ_GeB.Core
+namespace APJ_GeB.Core.Util
 {
     /// <summary>
     /// Represents a stored function.
