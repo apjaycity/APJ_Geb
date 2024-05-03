@@ -1,0 +1,7 @@
+E:\C# shenanigins\APJ GeB\bin\Debug\APJ GeB.exe.config
+E:\C# shenanigins\APJ GeB\bin\Debug\APJ GeB.exe
+E:\C# shenanigins\APJ GeB\bin\Debug\APJ GeB.pdb
+E:\C# shenanigins\APJ GeB\obj\Debug\APJ GeB.csproj.AssemblyReference.cache
+E:\C# shenanigins\APJ GeB\obj\Debug\APJ GeB.csproj.CoreCompileInputs.cache
+E:\C# shenanigins\APJ GeB\obj\Debug\APJ GeB.exe
+E:\C# shenanigins\APJ GeB\obj\Debug\APJ GeB.pdb
